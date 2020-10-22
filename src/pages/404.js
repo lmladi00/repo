@@ -8,4 +8,4 @@ const NotFoundPage = () => (
   </div>
 )
 
-export default NotFoundPage
+export default NotFoundPage //otvorit str koja ne postojim npr 8000/udfjfj, vraca html tj js
